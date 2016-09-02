@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">ACTTest</string>
+       <string-array name="values">
+           <item>A</item>
+           <item>BC</item>
+           <item>CD</item>
+           <item>DG</item>
+           <item>EF</item>
+           <item>FKKL</item>
+           <item>Gjdk</item>
+           <item>Hdjfd</item>
+           <item>Idff</item>
+           <item>Jdfksl</item>
+           <item>Kfdlksd</item>
+       <item>BTech</item>
+           <item>BE</item>
+        <item>MTech</item>
+           <item>ME</item>
+        <item>PhD</item>
+        <item>BSC</item>
+    </string-array>
+
+</resources>
