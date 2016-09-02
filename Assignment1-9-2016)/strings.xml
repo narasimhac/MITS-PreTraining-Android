@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">FirstTest1</string>
+
+    <string-array name="values">
+        <item>B.E/B.Tech</item>
+        <item>M.E/M.Tech</item>
+        <item>Ph.D</item>
+        <item>B.SC</item>
+    </string-array>
+
+</resources>
